@@ -1,0 +1,19 @@
+{
+  "name": "background",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gradient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohel1001/BackGround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohel1001/BackGround/issues"
+  },
+  "homepage": "https://github.com/sohel1001/BackGround#readme"
+}
